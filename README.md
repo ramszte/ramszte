@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ramszte
+- 👀 I’m interested in programming and moving forward to learn more and become a better programmer in the present and in the future.
+- 🌱 I’m currently learning at docs.github.com
